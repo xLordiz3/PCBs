@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "UVLightV2-rescue")(type "Legacy")(uri "${KIPRJMOD}/UVLightV2-rescue.lib")(options "")(descr ""))
+)
