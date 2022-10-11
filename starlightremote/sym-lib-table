@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "starlightremote-rescue")(type "Legacy")(uri "${KIPRJMOD}/starlightremote-rescue.lib")(options "")(descr ""))
+)
