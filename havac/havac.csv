@@ -1,0 +1,21 @@
+Name, Part, Reference, Value, Quantity, Description, Datasheet
+THT Capacitor, Device:CP, C1, CP 10μF, 1, Polarized capacitor, 
+THT Capacitor, Device:CP, C2, CP 47μF, 1, Polarized capacitor,
+SMD Capacitor, Device:C, C3, C 0.47μF, 1, Unpolarized capacitor,
+THT Capacitor, Device:CP, C4, CP 220μF, 1, Polarized capacitor,
+THT Diode, Device:D, D1, D, 1, Diode,
+LED Strip, My:3pin-connector, D2, LED Lights, 1, LED Strip Connector 3 Pin, 
+Barrel Jack, Connector:Barrel_Jack_MountingPin, J1, Vibrate Jack, 1, DC Barrel Jack with mounting pin, 
+8Ω 1W Speaker, Device:Speaker, LS1, Speaker, 1, Speaker,
+FQP30N06L MOSFET, Transistor_FET:2N7000, Q1, FQP30N06L, 1, N CHANNEL MOSFET, 60V, 32A, TO-220, https://cdn.sparkfun.com/datasheets/Components/General/FQP30N06L.pdf
+SMD Resistor, Device:R, R1, R 1.2KΩ, 1, Resistor,
+SMD Resistor, Device:R, R2, R 10Ω, 1, Resistor,
+SMD Resistor, Device:R, R3, R 270Ω, 1, Resistor,
+SMD Resistor, Device:R, R4, R 470Ω, 1, Resistor, 
+Push Button, Switch:SW_Push, SW1, Reset Switch, 1, Push button switch, 2 pin,
+Push Button, Switch:SW_Push, SW2, Stop Alarm, 1, Push button switch, 2 pin,
+D1 Mini, MCU_Module:WeMos_D1_mini, U1, WeMos_D1_mini, 1, 32-bit microcontroller module with WiFi, https://wiki.wemos.cc/products:d1:d1_mini#documentation
+LCD Screen, Driver_Display:CR2013-MI2120, U2, CR2013-MI2120, 1, ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V, http://pan.baidu.com/s/11Y990
+Step Up Buck Converter, dc-dc-boost-2a-microusb-mt3608:DC-DC-STEP-UP-MT3608, U3, DC-DC-STEP-UP-MT3608, 1, DC Step-Up module with Potentiometer, 
+Digital Potentiometer,  Potentiometer_Digital:MCP41010, U4, MCP41010, 1, Single Digital Potentiometer, SPI interface, 256 taps, 10KΩ, http://ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf
+Audio Amplifier, Amplifier_Audio:LM386, U5, LM386, 1, Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8, http://www.ti.com/lit/ds/symlink/lm386.pdf
